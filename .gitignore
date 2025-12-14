@@ -1,2 +1,3 @@
 *.mat
 *.Identifier
+.DS_Store
